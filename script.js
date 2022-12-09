@@ -1,3 +1,6 @@
+async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1475961953977596"
+         crossorigin="anonymous">
+
 const days = document.getElementById('days');
 const hours = document.getElementById('hours');
 const minutes = document.getElementById('minutes');
